@@ -1,6 +1,6 @@
 # Gatsby Shopify Headless demo
 
 GatsbyとShopify APIを使ったヘッドレスEコマースサイトのデモ
+Deploy先：Netlify
 
-
-[link](https://gatsby-shopify-headless.netlify.app/)
+[デモサイトlink](https://gatsby-shopify-headless.netlify.app/)
